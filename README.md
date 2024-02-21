@@ -39,12 +39,12 @@ Janonim, şifreli bir chat yazılımıdır. Bu yazılım, kullanıcıların şif
 ![usage2](https://github.com/Pasha-Sec/Janonim/assets/148802667/ae8400ab-eb37-4f5d-b2e4-b4a72ffac7f6)
 
 
-### Katkılar
-
+## Katkılar
 Katkılarınızı büyük bir memnuniyetle karşılıyoruz! Lütfen bu projeye katkıda bulunmaktan çekinmeyin. Katkılarınız için teşekkür ederiz.
 
-### İletişim
 
+
+## İletişim
 Proje sahibi ile iletişim kurmak için lütfen [e-posta adresi](pashasectr@gmail.com)'ni kullanın.
 
 
