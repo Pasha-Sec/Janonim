@@ -2,7 +2,17 @@
 
 
 ## Giriş
-Janonim, güçlü Python ekosistemi üzerinde oluşturulmuş son derece şifreli ve kriptolu bir sohbet ortamı sağlar. Yazılım, her mesajı göndericiden alıcıya kadar güvenlik altına alarak en üst düzeyde gizlilik sağlar. Aynı anda birçok kullanıcı ile mesajlaşabilirsiniz. Üstelik ister masaüstü ister mobil cihazda olsun, **Janonim** her zaman parmaklarınızın ucundadır.
+Janonim, şifreli bir chat yazılımıdır. Bu yazılım, kullanıcıların şifreli bir şekilde birbirleriyle iletişim kurmasını sağlar. Uygulama, Fernet şifreleme algoritmasını kullanarak mesajları şifreler ve çözer, bu da güvenli bir iletişim sağlar.
+
+## Özellikler
+**Güvenli İletişim:** Fernet şifreleme algoritması kullanılarak mesajlar şifrelenir ve çözülür.
+
+**Kullanıcı Adı Doğrulaması:** Kullanıcılar, sunucuya bağlanırken kullanıcı adı girişi yaparlar ve kullanıcı adları sunucuda benzersiz olmalıdır.
+
+**Kullanıcı Dostu Arayüz:** Renkli terminal çıktısı ve yardım menüsü, kullanıcıların uygulamayı kolayca kullanmalarını sağlar.
+
+**Çoklu Kullanıcı Desteği:** Birden fazla kullanıcı eş zamanlı olarak sunucuya bağlanabilir ve birbirleriyle şifreli mesajlaşabilirler.
+
 ![logo](https://github.com/Pasha-Sec/Janonim/assets/148802667/9fdaa43b-8a67-4606-b838-e75f5c8dd5f7)
 
 
